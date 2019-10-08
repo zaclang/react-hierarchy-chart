@@ -1,1 +1,9 @@
-https://github.com/coreseekdev/react-org-chart
+`
+# install
+yarn
+`
+
+`
+# run project
+yarn start
+`
